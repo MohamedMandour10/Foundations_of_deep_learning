@@ -25,15 +25,13 @@ Supervised Learning is a machine learning technique where the model is trained o
 ## Automated Differentiation from Scratch
 Automated Differentiation is a technique used to calculate the gradient of a function with respect to its inputs. This is essential for training neural networks using gradient-based optimization algorithms. In this repository, we will implement automated differentiation from scratch to gain a deeper understanding of how it works.
 
-## Code Examples
-This repository contains code examples for each of the topics listed above. The examples are written in Python and use popular deep learning libraries such as PyTorch and NumPy.
 
 ## Getting Started
 To get started with this repository, you should have a basic understanding of Python and deep learning concepts. You should also have the following software installed on your machine:
 
-Python 3.x
-PyTorch
-NumPy
+* Python 3.x
+* PyTorch
+* NumPy
 To run the code examples, clone this repository and navigate to the appropriate directory. Then, run the Python scripts using the following command:
 
 ```
