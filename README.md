@@ -32,6 +32,7 @@ To get started with this repository, you should have a basic understanding of Py
 * Python 3.x
 * PyTorch
 * NumPy
+
 To run the code examples, clone this repository and navigate to the appropriate directory. Then, run the Python scripts using the following command:
 
 ```
